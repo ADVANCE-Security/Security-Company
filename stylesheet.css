@@ -8,12 +8,12 @@ li {
 
 .header-logo {
   float: left;
-  font size: 30px;
+  font-size: 30px;
   padding: 25px 50px;
 }
 
 .header-list li {
   float: left;
-  font size: 12px;
+  font-size: 12px;
   padding: 30px 25px;
 }
