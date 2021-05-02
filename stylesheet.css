@@ -17,3 +17,9 @@ li {
   font-size: 12px;
   padding: 30px 25px;
 }
+
+.copy-container h1 {
+  font-size: 100px;
+  margin: auto;
+}
+
